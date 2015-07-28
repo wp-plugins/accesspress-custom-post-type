@@ -1,12 +1,11 @@
 
 body{
-	color: #000 !important;
-    font-size: 22px !important;
-    color: #333 !important;
+    font-size: 22px;
+    color: #333;
 }
 
 a{
-	border-bottom: none !important;
+	border-bottom: none;
 	transition:all ease-in-out 0.5s;
 	-webkit-transition:all ease-in-out 0.5s;
 	-moz-transition:all ease-in-out 0.5s;
@@ -55,7 +54,7 @@ Clearings
 
 h1.section-title{
 	background: #eee none repeat scroll 0 0;
-    font-size: 30px !important;
+    font-size: 30px;
     font-weight: 600;
     padding: 5px 20px;
     margin-bottom: 20px;
@@ -77,12 +76,12 @@ SERVICE SECTION
     width: 47%;
 }
 .service-title {
-    font-size: 21px !important;
+    font-size: 21px;
     font-weight: normal;
-    margin: 0 !important;
+    margin: 0;
 }
 .service-title > a {
-    border-bottom: none !important;
+    border-bottom: none;
 }
 .service-title > a:hover {
 	color: #58b25e;
@@ -105,7 +104,7 @@ SERVICE SECTION
     text-align: right;
 }	
 .cpt-pagination a, .cpt-pagination span {
-	border-bottom: none !important;
+	border-bottom: none;
 	padding: 3px;
 }
 .cpt-pagination a:hover{
@@ -134,7 +133,7 @@ FEATURE SECTION
 .product-title {
     border-bottom: 4px double #ccc;
     padding-left: 5px;
-    margin-top: 0 !important;
+    margin-top: 0;
     margin-bottom: 30px;
 }
 .features_wrap {
@@ -158,7 +157,7 @@ FEATURE SECTION
 	margin-bottom: 10px;
     color: #222;
     font-size: 20px;
-    font-weight: normal !important;
+    font-weight: normal;
 }
 .feature-description {
     color: #666;
@@ -214,7 +213,7 @@ TEAM SECTION
     -moz-transition:all ease-in-out 0.5s;
 }
 .member-flip-wrap:hover .member-info{
-	background: rgba(255, 255, 255, 0.8) !important;
+	background: rgba(255, 255, 255, 0.8);
 	left: 0;
 	visibility: visible;
 	width: 100%;
@@ -223,13 +222,13 @@ TEAM SECTION
 	display: block;
 }
 .member-name {
-    font-size: 22px !important;
-    margin: 0 !important;
-    color: #fff !important;
+    font-size: 22px;
+    margin: 0;
+    color: #fff;
     text-align: center;
 }
 .member-name a{
-	border-bottom: none !important;
+	border-bottom: none;
 	transition:all ease-in-out 0.5s;
 	-webkit-transition:all ease-in-out 0.5s;
 	-moz-transition:all ease-in-out 0.5s;
@@ -238,7 +237,7 @@ TEAM SECTION
 	color: #278f2e;
 }
 .member-desgination {
-    font-size: 16px !important;
+    font-size: 16px;
     color: #333;
 }
 .member-social-links {
@@ -246,7 +245,7 @@ TEAM SECTION
 }
 .fb a, .tw a, .gp a, .lnk a {
 	padding: 5px;
-    border-bottom: none !important;
+    border-bottom: none;
 }
 .fb a:hover{
 	color: #0079e9;
@@ -265,8 +264,8 @@ TEAM SECTION
 TEAM SECTION READMORE
 ================================================*/
 .post-thumbnail {
-    margin: 0 auto 10px !important;
-    padding: 4% 10% 0 10% !important;
+    margin: 0 auto 10px;
+    padding: 4% 10% 0 10%;
 }
 .post-thumbnail img{
 	border:1px solid #eee;
@@ -275,7 +274,7 @@ TEAM SECTION READMORE
 h1.entry-title {
     background: #eee none repeat scroll 0 0;
     font-size: 35px;
-    margin-bottom: 10px !important;
+    margin-bottom: 10px;
     padding: 5px 20px;
 }
 .entry-content {
@@ -328,12 +327,12 @@ TESTIMONIAL SECTION
 	color: #666;
 }
 .testimonial-conent p{
-	margin-bottom: 0px !important;
+	margin-bottom: 0px;
 }
 .tauthor-info h4{
-	margin: 0 !important;
-	font-size: 16px !important;
-	color: #333 !important;
+	margin: 0;
+	font-size: 16px;
+	color: #333;
 	display: inline-block;
 }
 .testi-author-article-wrap {
@@ -377,8 +376,8 @@ RECENT WORK
 	margin-right: 0;
 }
 .project-title {
-    font-size: 20px !important;
-    margin: 15px 0 !important;
+    font-size: 20px;
+    margin: 15px 0;
     text-align: center;
 }
 .project-desc {
@@ -396,7 +395,7 @@ a.more-link {
 }
 
 a.more-link:hover{
-	color:#58b25e !important;
+	color:#58b25e;
 }
 
 .signle-project-wrap:hover img{
@@ -474,7 +473,7 @@ RESPONSIVE STYLESHEET
 		text-align: center;
 	}
 	.tauthor-info h4{
-		margin-top: 5px !important;
+		margin-top: 5px;
 		display: block;
 		text-align: center;
 	}
