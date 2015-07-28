@@ -8,15 +8,13 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A Plugin to manage some useful section in your theme by using existing custom post type. Like (Team, Testimonials, Portfolio, Service etc.)
+A Plugin to create a few popular post types (Team, Testimonials, Portfolio, Service etc.) and use them in your website using shortcodes. 
 
 == Description ==
-<strong>AccessPress Custom Post Type</strong> is a <strong>Free WordPress plugin</strong> to manage posts in various existing custom post type.
-When plugin is activate default post types are appear. Like "Services", "Products", "Team Members", "Testimonials", "Clients" and "Portfolio".
+<strong>AccessPress Custom Post Type</strong> is a <strong>Free WordPress plugin</strong> to manage posts in various existing custom post types. 
+When plugin is activated, you can see custom post types like "Services", "Products", "Team Members", "Testimonials", "Clients" and "Portfolio" etc appear and you can add these in your website. 
 
-You can add posts for any existing custom post type and display on front end by using shortcodes. We have default design for every section which is fit on your theme.
-
-Just get it done in a few minutes!  
+You can add posts for any existing custom post type and display on front end by using shortcodes. Also, we have written the frontend CSS in such a way that it inherits CSS classes / designs from your theme's master CSS. 
 
 = Some Useful Links =
 * <strong>Support Email</strong>: support@accesspressthemes.com
