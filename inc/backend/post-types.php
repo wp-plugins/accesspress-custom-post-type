@@ -239,3 +239,26 @@ register_taxonomy( 'portfolio_category',
                         )
                     )
                 );
+                
+    add_filter("manage_edit-portfolios_columns", "portfolios_edit_columns");
+    function portfolios_edit_columns( $columns ){
+     $columns = array(
+       "cb" => "<input type='checkbox' />",
+       "title" => "Title",
+       "taxonomy-portfolio_category"  => 'Categories',
+       "thumb" =>'Thumbnail',
+       "date" => "Date",
+     ); 
+     return $columns;
+    }
+    
+    add_action("manage_posts_custom_column",  "portfolios_custom_columns");
+    function portfolios_custom_columns( $column ){
+     global $post;
+    
+     switch ( $column ) {
+       case "thumb":
+         the_post_thumbnail( array(72, 72) );
+         break;
+     }
+}

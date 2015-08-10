@@ -4,17 +4,19 @@ Tags: cpt, custom, custom post type, post, post type, custom field, custom field
 Donate link: http://accesspressthemes.com/donation/
 Requires at least: 3.9
 Tested up to: 4.2.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A Plugin to create a few popular post types (Team, Testimonials, Portfolio, Service etc.) and use them in your website using shortcodes. 
+A Plugin to manage some useful section in your theme by using existing custom post type. Like (Team, Testimonials, Portfolio, Service etc.)
 
 == Description ==
-<strong>AccessPress Custom Post Type</strong> is a <strong>Free WordPress plugin</strong> to manage posts in various existing custom post types. 
-When plugin is activated, you can see custom post types like "Services", "Products", "Team Members", "Testimonials", "Clients" and "Portfolio" etc appear and you can add these in your website. 
+<strong>AccessPress Custom Post Type</strong> is a <strong>Free WordPress plugin</strong> to manage posts in various existing custom post type.
+When plugin is activate default post types are appear. Like "Services", "Products", "Team Members", "Testimonials", "Clients" and "Portfolio".
 
-You can add posts for any existing custom post type and display on front end by using shortcodes. Also, we have written the frontend CSS in such a way that it inherits CSS classes / designs from your theme's master CSS. 
+You can add posts for any existing custom post type and display on front end by using shortcodes. We have default design for every section which is fit on your theme.
+
+Just get it done in a few minutes!  
 
 = Some Useful Links =
 * <strong>Support Email</strong>: support@accesspressthemes.com
@@ -42,6 +44,9 @@ Yes, you can use separate shortcode for different sections. Like ([ap-service], 
 3. Shortcodes for each section
 
 == Changelog ==
+= 1.0.1 =
+* Added extra columns field in Portfolio Posts
+
 = 1.0.0 =
 * Plugin submitted to http://wordpress.org for review and approval
 * Plugin approved in http://wordpress.org and comitted in plugin repository
