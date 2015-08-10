@@ -3,7 +3,7 @@
  * Plugin Name: AccessPress CPT
  * Plugin URI: https://accesspressthemes.com/wordpress-plugins/accesspress-cpt/
  * Description: A plugin to create new custom post type. 
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: AccessPress Themes
  * Author URI: http://accesspressthemes.com
  * Text Domain: ap-cpt
